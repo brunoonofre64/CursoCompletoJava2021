@@ -12,7 +12,7 @@ public class StringVaziaException extends RuntimeException {
 		
 		@Override
 		public String getMessage() {
-			return String.format("O atributo %s está vazio",
+			return String.format("O atributo '%s' está vazio",
 					nomeDoAtributo);
 		}
 	
