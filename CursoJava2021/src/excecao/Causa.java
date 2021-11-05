@@ -1,5 +1,5 @@
 package excecao;
-
+//teste ss
 public class Causa { 
 	
 	public static void main(String[] args) {

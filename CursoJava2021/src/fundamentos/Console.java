@@ -32,5 +32,6 @@ public class Console {
 				nome, sobrenome, idade);
 		
 		entrada.close();
+		
 	}
 }
