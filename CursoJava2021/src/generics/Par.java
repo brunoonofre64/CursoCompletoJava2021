@@ -29,7 +29,8 @@ public class Par<C, V> {
 	public void setValor(V valor) {
 		this.valor = valor;
 	}
-
+	
+	p
 	@Override
 	public int hashCode() {
 		return Objects.hash(chave);
