@@ -24,7 +24,8 @@ public class Observador {
 
 			janela.setVisible(true);		
 		
-		
+		//teste
+			
 		
 		
 		
