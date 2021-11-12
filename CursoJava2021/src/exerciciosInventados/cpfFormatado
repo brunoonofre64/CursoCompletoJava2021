@@ -1,0 +1,27 @@
+pubic class FormatacaoCpf {
+    
+       public static void main(String[] args) {
+          
+           static int[] cpfFormatado = new int[10]; 
+
+         static int cpfTresPrimeiros;
+         static int cpfTresSegundo;
+         static int cpfTresTerceiro;
+         static int cpfDigitos;
+
+         Scanner scan = new Scanner(System.in);
+
+          System.out.println("Insira o CPF par a formatação com pontos!\n");
+
+             cpfFormatado = scan.nextInt();
+
+                 if(cpfFormatado.size() == 11) {
+
+
+                 }
+
+
+
+
+   }
+}
