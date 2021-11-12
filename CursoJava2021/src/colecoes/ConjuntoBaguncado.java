@@ -36,11 +36,13 @@ public class ConjuntoBaguncado {
 		nums.add(1);
 		nums.add(2);
 		nums.add(3);
+		nums.add(4);
+		nums.add(5);
 		
 		System.out.println(nums);
 		System.out.println(conjunto);
 		
-		// conjunto.addAll(nums); // União entre dois conjuntos
+	    //conjunto.addAll(nums); // União entre dois conjuntos
 		conjunto.retainAll(nums);
 		System.out.println(conjunto);
 		
